@@ -10,3 +10,5 @@ Teknolojiler:
 • C# Programlama Dili 
 • .NET Core veya .NET Framework 
 • MongoDB 
+
+![Ekran görüntüsü 2025-05-29 125709](https://github.com/user-attachments/assets/ebcb6c73-aee9-4d7f-88a9-1aaf52be447d)

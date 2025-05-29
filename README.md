@@ -23,6 +23,9 @@ Teknolojiler:
 ![Ekran görüntüsü 2025-05-29 125729](https://github.com/user-attachments/assets/eb403cf6-8091-4f9e-aa24-d4f19acea490)
 
 
+![Ekran görüntüsü 2025-05-29 125816](https://github.com/user-attachments/assets/27efe885-5a8c-4f13-92d2-bbfdfee0c443)
+
+
 
 
 ![Ekran görüntüsü 2025-05-29 125855](https://github.com/user-attachments/assets/0bb20815-38b8-4c23-bb23-c09430deb4c9)

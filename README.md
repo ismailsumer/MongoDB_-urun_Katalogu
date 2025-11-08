@@ -1,4 +1,5 @@
-Amaç: Bu proje, C# programlama dilini kullanarak MongoDB veritabanı ile etkileşim kurma 
+## Amaç:
+- Bu proje, C# programlama dilini kullanarak MongoDB veritabanı ile etkileşim kurma 
 becerilerini geliştirmeyi amaçlamaktadır.Ürün bilgilerini MongoDB'de saklayabilecek, bu 
 bilgilere erişebilecek, yeni ürünler ekleyebilecek, mevcut ürünleri düzenleyebilecek ve 
 silebileceklerdir. Ayrıca, çeşitli filtreleme ve sıralama seçenekleriyle ürünleri listeleyebilecek 

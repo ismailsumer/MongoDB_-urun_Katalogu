@@ -7,10 +7,10 @@ ve arama yapabileceklerdir. Uygulama, olası hataları bir dosyaya kaydederek ba
 yönetimi mekanizması da sunacaktır.
 
 
-Teknolojiler: 
-• C# Programlama Dili 
-• .NET Core veya .NET Framework 
-• MongoDB 
+## Teknolojiler: 
+- • C# Programlama Dili 
+- • .NET Core veya .NET Framework 
+- • MongoDB 
 
 
 
